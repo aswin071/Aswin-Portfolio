@@ -33,14 +33,14 @@ export default function Skills() {
         {/* Intro row */}
         <div className="skills-intro">
           <div className="skills-intro-left">
-            <p className="skills-intro-bold">I build things for the people</p>
-            <p className="skills-intro-italic">I can Design, Develop, Deploy</p>
+            <p className="skills-intro-bold">I build the whole product</p>
+            <p className="skills-intro-italic">What you see, and what makes it run.</p>
           </div>
           <div className="skills-intro-right">
             <p>
-              My go-to stack is Python with Django &amp; FastAPI for backend systems,
-              complemented by React.js on the frontend. I collaborate with teams to
-              create a variety of scalable, production-ready solutions.
+              Most clients just need one person who can own the whole product.
+              That's what I do — I build what users see, the systems behind it,
+              and make sure it stays fast and reliable as the business grows.
             </p>
             <p>
               I have a thing for making high-performance systems, so I always architect

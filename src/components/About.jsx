@@ -24,7 +24,7 @@ export default function About() {
               </div>
             </div>
             <h2 className="about-name">Aswin K</h2>
-            <p className="about-role gradient-text">Python Full Stack Developer</p>
+            <p className="about-role gradient-text">Web Developer & Product Builder</p>
 
             <div className="about-approach">
               <p className="approach-label">My approach to work is</p>
@@ -53,23 +53,22 @@ export default function About() {
           <div className="about-right">
             <div className="section-eyebrow">About Me</div>
             <h3 className="about-heading">
-              Building systems that{' '}
-              <span className="gradient-text">scale</span>,<br />
-              not just software that <span className="italic-accent">works</span>.
+              Your idea, taken from{' '}
+              <span className="gradient-text">zero</span>,<br />
+              to a product <span className="italic-accent">people actually use</span>.
             </h3>
             <div className="divider" />
 
             <p className="about-bio">
-              I'm a Python Full Stack Developer with <strong>3 years of experience</strong> designing
-              and building high-performance web applications. Currently at{' '}
-              <strong>Webandcrafts</strong>, I architect full-stack solutions for enterprise-grade
-              ERP systems, processing <strong>50,000+ background jobs daily</strong> via RabbitMQ.
+              I'm a developer with <strong>3 years of experience</strong> building web products
+              that businesses depend on. Currently at <strong>Webandcrafts</strong>, I build
+              enterprise tools used daily by sales, HR, and finance teams — handling everything
+              from the interface people click to the systems running quietly behind it.
             </p>
             <p className="about-bio">
-              My expertise spans across <strong>Django &amp; FastAPI</strong> for backends, 
-              <strong> React.js</strong> for frontends, and cloud infrastructure on <strong>AWS</strong>. 
-              I'm equally passionate about AI integrations — having built a Gemini-powered voice agent
-              that handles real-time matrimonial matchmaking calls.
+              I handle the whole product — what your customers see, how fast it loads, how
+              reliably it runs, and how it scales as you grow. I've also shipped an
+              AI-powered voice agent that holds real conversations with users autonomously.
             </p>
             <p className="about-bio">
               I believe in writing clean, testable code and designing systems that are built to last.

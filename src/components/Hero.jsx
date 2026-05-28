@@ -77,11 +77,13 @@ export default function Hero() {
           </p>
 
           <h1 className="hero-headline animate-fadeUp animate-delay-1">
-            I <span className="gradient-text">build</span> &amp; craft{' '}
+            I <span className="gradient-text">design</span> &amp; craft{' '}
             <br />
-            scalable backends{' '}
+            beautiful websites{' '}
             <br />
-            <span className="italic-accent">that power your product</span>
+            <span className="italic-accent">for users, that solves</span>
+            <br />
+            <span className="italic-accent">your business tasks.</span>
           </h1>
 
           <div className="hero-actions animate-fadeUp animate-delay-3">

@@ -1,9 +1,9 @@
 export const personalInfo = {
   name: "Aswin K",
-  title: "Python Full Stack Developer",
-  tagline: "I build & craft scalable backends that power your product.",
+  title: "Web Developer & Product Builder",
+  tagline: "I take your idea from concept to a live, working product.",
   subTagline: "hello world",
-  bio: "I'm Aswin K, a Python Full Stack Developer with 3 years of experience building high-performance web applications. My expertise spans Django, FastAPI, microservices architecture, and modern cloud infrastructure. I'm passionate about crafting scalable systems and solving complex engineering challenges.",
+  bio: "I'm Aswin K, a developer with 3 years of experience building web products that work. I handle everything — the interface your customers see and the systems that power it — so you get one person who owns the whole product.",
   approach: "My approach to engineering is performance, precision, and scalability.",
   email: "aswinjikz05@gmail.com",
   phone: "+91 9567365762",
