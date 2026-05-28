@@ -15,10 +15,10 @@ export default function Footer() {
           Made with <FiHeart className="heart" /> by Aswin K &mdash; &copy; {year}
         </p>
         <div className="footer-socials">
-          <a href="https://github.com/aswin-k" target="_blank" rel="noreferrer" aria-label="GitHub">
+          <a href="https://github.com/aswin071?tab=repositories" target="_blank" rel="noreferrer" aria-label="GitHub">
             <FiGithub />
           </a>
-          <a href="https://linkedin.com/in/aswin-k" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/aswin-k-41740b250/" target="_blank" rel="noreferrer" aria-label="LinkedIn">
             <FiLinkedin />
           </a>
           <a href="mailto:aswinjikz05@gmail.com" aria-label="Email">

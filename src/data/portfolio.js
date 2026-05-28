@@ -7,8 +7,8 @@ export const personalInfo = {
   approach: "My approach to engineering is performance, precision, and scalability.",
   email: "aswinjikz05@gmail.com",
   phone: "+91 9567365762",
-  linkedin: "https://linkedin.com/in/aswin-k",
-  github: "https://github.com/aswin-k",
+  linkedin: "https://www.linkedin.com/in/aswin-k-41740b250/",
+  github: "https://github.com/aswin071?tab=repositories",
   location: "Kerala, India",
 };
 

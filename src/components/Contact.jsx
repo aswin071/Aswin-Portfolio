@@ -55,7 +55,7 @@ export default function Contact() {
                 </div>
               </a>
               <a
-                href="https://linkedin.com/in/aswin-k"
+                href="https://www.linkedin.com/in/aswin-k-41740b250/"
                 target="_blank"
                 rel="noreferrer"
                 className="contact-link-card"
@@ -63,11 +63,11 @@ export default function Contact() {
                 <FiLinkedin className="contact-icon" />
                 <div>
                   <span className="link-label">LinkedIn</span>
-                  <span className="link-value">linkedin.com/in/aswin-k</span>
+                  <span className="link-value">Aswin K</span>
                 </div>
               </a>
               <a
-                href="https://github.com/aswin-k"
+                href="https://github.com/aswin071?tab=repositories"
                 target="_blank"
                 rel="noreferrer"
                 className="contact-link-card"
@@ -75,7 +75,7 @@ export default function Contact() {
                 <FiGithub className="contact-icon" />
                 <div>
                   <span className="link-label">GitHub</span>
-                  <span className="link-value">github.com/aswin-k</span>
+                  <span className="link-value">Aswin K</span>
                 </div>
               </a>
             </div>

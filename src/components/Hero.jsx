@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react';
 import { Link } from 'react-scroll';
-import { FiArrowRight, FiFileText } from 'react-icons/fi';
+import { FiArrowRight } from 'react-icons/fi';
 import { personalInfo } from '../data/portfolio';
 import './Hero.css';
 
@@ -93,16 +93,6 @@ export default function Hero() {
                 <FiArrowRight />
               </button>
             </Link>
-            <a
-              href="/Aswin_K_Resume.pdf"
-              download="Aswin_K_Resume.pdf"
-              target="_blank"
-              rel="noreferrer"
-              className="btn-outline"
-            >
-              <FiFileText />
-              Resume
-            </a>
           </div>
 
           <div className="hero-stats animate-fadeUp animate-delay-4">

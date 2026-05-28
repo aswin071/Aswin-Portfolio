@@ -3,8 +3,8 @@ import { FiLinkedin, FiGithub, FiMail, FiPhone } from 'react-icons/fi';
 import './About.css';
 
 const socials = [
-  { icon: <FiLinkedin />, label: 'LinkedIn', href: 'https://linkedin.com/in/aswin-k' },
-  { icon: <FiGithub />,   label: 'GitHub',   href: 'https://github.com/aswin-k' },
+  { icon: <FiLinkedin />, label: 'LinkedIn', href: 'https://www.linkedin.com/in/aswin-k-41740b250/' },
+  { icon: <FiGithub />,   label: 'GitHub',   href: 'https://github.com/aswin071?tab=repositories' },
   { icon: <FiMail />,     label: 'Email',    href: 'mailto:aswinjikz05@gmail.com' },
   { icon: <FiPhone />,    label: 'Phone',    href: 'tel:+919567365762' },
 ];
