@@ -108,6 +108,16 @@ export default function Hero() {
               <span className="stat-number gradient-text">3+</span>
               <span className="stat-label">Years Experience</span>
             </div>
+            <div className="stat-divider" />
+            <div className="stat">
+              <span className="stat-number gradient-text">5+</span>
+              <span className="stat-label">Projects Delivered</span>
+            </div>
+            <div className="stat-divider" />
+            <div className="stat">
+              <span className="stat-number gradient-text">10+</span>
+              <span className="stat-label">Technologies</span>
+            </div>
           </div>
         </div>
 
